@@ -23,6 +23,8 @@ wallet:
   private_key: ""
   keystore_path: ""
   keystore_password: ""
+  reward_claimer_addr: ""
+  commission_rate: 0
 signature:
   domain_name: "ProtocolService"
   domain_version: "1.0.0"
