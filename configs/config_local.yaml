@@ -23,7 +23,7 @@ wallet:
   private_key: ""
   keystore_path: ""
   keystore_password: ""
-dacp:
-  identity_path: "identity.json"
-  tcb_path: "tcb.json"
-  trusted_path: "trusted.json"
+signature:
+  domain_name: "opBNB"
+  domain_version: "1.0.0"
+  domain_chain_id: 5611
