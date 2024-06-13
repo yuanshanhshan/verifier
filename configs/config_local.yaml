@@ -27,3 +27,5 @@ signature:
   domain_name: "ProtocolService"
   domain_version: "1.0.0"
   domain_chain_id: 5611
+gasless_service:
+  url: "http://localhost:8080"
