@@ -28,5 +28,6 @@ wallet:
 signature:
   domain_name: "ProtocolService"
   domain_version: "1.0.0"
+  expired_time: 3600
 gasless_service:
   url: "http://localhost:8080"
